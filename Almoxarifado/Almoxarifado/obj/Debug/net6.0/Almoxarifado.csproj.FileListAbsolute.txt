@@ -1,0 +1,5 @@
+C:\Users\manha.cetafest\source\repos\Almoxarifado\Almoxarifado\obj\Debug\net6.0\Almoxarifado.csproj.AssemblyReference.cache
+C:\Users\manha.cetafest\source\repos\Almoxarifado\Almoxarifado\obj\Debug\net6.0\Almoxarifado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manha.cetafest\source\repos\Almoxarifado\Almoxarifado\obj\Debug\net6.0\Almoxarifado.AssemblyInfoInputs.cache
+C:\Users\manha.cetafest\source\repos\Almoxarifado\Almoxarifado\obj\Debug\net6.0\Almoxarifado.AssemblyInfo.cs
+C:\Users\manha.cetafest\source\repos\Almoxarifado\Almoxarifado\obj\Debug\net6.0\Almoxarifado.csproj.CoreCompileInputs.cache
